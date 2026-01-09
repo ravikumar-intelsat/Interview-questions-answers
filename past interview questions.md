@@ -93,4 +93,6 @@ public class MessageNotification : INotification
 	}
 
 }
+ compiled query
+ Entity Framework
  
