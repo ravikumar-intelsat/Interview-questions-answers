@@ -95,4 +95,6 @@ public class MessageNotification : INotification
 }
  compiled query
  Entity Framework
+
+ multiple file reading with aysnc await alone and Task alone and comibnation of both
  
